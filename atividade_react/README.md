@@ -1,4 +1,4 @@
-# Atividade - React TS
+# Atividade1 - React TS - Loteria
 
 __Descrição da atividade:__ fazer um aplicativo web para mostrar os dados do último sorteio da Mega-sena, Lotofácil e Quina.
 
